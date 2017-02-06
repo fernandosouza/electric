@@ -41,7 +41,7 @@
     "gulp-insert": "^0.5.0",
     "gulp-pluck": "0.0.3",
     "gulp-soynode": "^1.5.3",
-    "gulp-util": "^3.0.7",
+    "gulp-util": "^3.0.8",
     "lodash": "^4.16.6",
     "metal": "^2.5.1",
     "metal-component": "^2.5.1",
@@ -62,6 +62,7 @@
   "devDependencies": {
     "ava": "^0.16.0",
     "gulp": "^3.9.1",
+    "gulp-documentation": "^3.1.0",
     "gulp-jshint": "^2.0.4",
     "jshint": "^2.9.4",
     "jshint-stylish": "^2.2.1",
